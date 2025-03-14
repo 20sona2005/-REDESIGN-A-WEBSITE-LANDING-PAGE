@@ -55,3 +55,7 @@ A console log message confirming successful page load.
 Objective:
 
 The goal is to create an attractive, responsive, and user-friendly landing page for a juice brand, ensuring smooth navigation and interactive elements for a better user experience.
+
+OUTPUT:
+
+https://github.com/user-attachments/assets/303e3e1d-0694-43e5-be0c-49dd5acf60ac
